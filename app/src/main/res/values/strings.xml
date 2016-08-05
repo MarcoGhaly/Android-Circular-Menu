@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Circular Menu</string>
+
+    <string name="fruit">Fruit</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="orange">Orange</string>
+    <string name="pear">Pear</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="strawberry">Strawberry</string>
+</resources>
